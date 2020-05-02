@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="18_aktif_endositosisreseptor_cnx" size="1.000000 1.163006" />
+    <ImageTarget name="17_aktif_endositosispinositosis_cnx" size="1.000000 1.057904" />
+    <ImageTarget name="16_aktif_endositosisfagositosi_cnx" size="1.000000 0.993827" />
+    <ImageTarget name="15_aktif_eksositosis_cnx" size="1.000000 1.073724" />
+    <ImageTarget name="14_aktif_pompaion_cnx" size="1.000000 0.471941" />
+    <ImageTarget name="13_pasif_osmosis_cnx" size="1.000000 0.566176" />
+    <ImageTarget name="12_pasif_difusidiprmdh_cnx" size="1.000000 0.489770" />
+    <ImageTarget name="11_paisf_difusi1_cnx" size="1.000000 0.398458" />
+    <ImageTarget name="10_dindingsel" size="1.000000 0.525000" />
+    <ImageTarget name="9_Sentriol" size="1.000000 0.608456" />
+    <ImageTarget name="8_Miiitokondria" size="1.000000 0.665365" />
+    <ImageTarget name="7_badangolgi" size="1.000000 1.266212" />
+    <ImageTarget name="6_retikulumEndoplasma" size="1.000000 1.007874" />
+    <ImageTarget name="5_Ribosom" size="1.000000 0.808824" />
+    <ImageTarget name="4_Intisel" size="1.000000 0.909241" />
+    <ImageTarget name="3_MembreanSel" size="1.000000 0.714521" />
+    <ImageTarget name="2_SelTumbuhann" size="1.000000 0.700813" />
+    <ImageTarget name="1_SelHewan" size="1.000000 0.835979" />
+  </Tracking>
+</QCARConfig>
